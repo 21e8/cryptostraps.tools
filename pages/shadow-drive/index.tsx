@@ -710,7 +710,7 @@ function ShdwDrivePage() {
                                         ""
                                       ) : (
                                         <>
-                                          <TrashIcon width={16} /> delet
+                                          <TrashIcon width={16} /> delete
                                         </>
                                       )}
                                     </button>
