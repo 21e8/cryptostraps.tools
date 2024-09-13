@@ -1,7 +1,7 @@
 # SOL NFT Tools
 
 
-[Live Version](https://cryptostraps.tools/)
+[Live Version](https://vercel.com/21e9s-projects/cryptostraps-tools/3vVpdu75vkmyVm3wnYcRav8hLr7o)
 
 ## Getting Started
 
